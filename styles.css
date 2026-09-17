@@ -9,3 +9,5 @@
 
 @media(min-width:901px){.intro h1{font-size:2.65rem}.intro h1 br{display:none}.intro{padding-top:1.45rem;padding-bottom:1.5rem}.intro-map{min-width:285px;margin-right:0}.masthead-inner{padding-top:1rem;padding-bottom:1rem}}
 @media screen{.chapter-nav{position:sticky;top:0;z-index:5;background:var(--bg);padding-top:.25rem;box-shadow:0 5px 0 var(--bg)}}
+
+@media screen{.chapter,.topic,.quiz{scroll-margin-top:5rem}}
